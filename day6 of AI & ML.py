@@ -40,6 +40,5 @@ while start >0 :
     print(start)
     time.sleep(1)
     start-=1
-    
-    
+  
 print ("\n----happy new year!---10")
